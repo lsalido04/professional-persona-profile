@@ -1,5 +1,5 @@
-# Luis Salido — Professional Persona Profile
+# Luis Salido — Professional Portfolio
 
-[Visit my professional website](https://professional-persona-profile-luis-salido.matteblimp1.chatgpt.site/)
+[Visit my website](https://lsalido04.github.io/professional-persona-profile/)
 
-My professional portfolio features my background, experience, professional persona, projects, and contact information.
+Website pages are hosted on GitHub Pages. Photos and video are served from the original portfolio site.
